@@ -10,7 +10,7 @@ The code has been tested on Python 3.9.13
 
 To run with custom inputs, change the values in the main function. The parameters to createpdf function is in the order (name,firm,category) where category is the type of participant (attendee,mentor,speaker, etc). 
 
-The code is WIP and works only for the name field.
+The code is WIP and works only for the name field. The code doesn't handle long field issues yet.
 
 * Template folder - Stores the certificate templates 
 * Fonts folder - Stores the fonts in .ttf format
